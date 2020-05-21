@@ -1,0 +1,17 @@
+{
+    "name": "ojenya",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^1.18.10",
+        "socks5-https-client": "^1.2.1",
+        "telegraf": "^3.28.0"
+    }
+}
